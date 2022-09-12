@@ -1,2 +1,2 @@
 # library-management
-library management in python
+library management using python
